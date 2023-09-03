@@ -2,6 +2,4 @@
 Final Year Capstone Project
 
 # Members
-Ameya Deshmukh
-
-Om Gaikwad
+Ameya Deshmukh, Om Gaikwad
