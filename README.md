@@ -1,8 +1,8 @@
 # SeniorDesign
-Final Year Capstone Project
+**Final Year Capstone Project**
 
 ## Team Name
-Royal AI Pioneers
+**Royal AI Pioneers**
 
 ### Members
 - **Ameya Deshmukh**
