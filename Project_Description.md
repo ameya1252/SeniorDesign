@@ -9,3 +9,7 @@
 - **Om Gaikwad**
   - Major: Computer Science
   - Email: [gaiwkaot@mail.uc.edu](mailto:gaiwkaot@mail.uc.edu)
+
+### Project Area
+- Deep Learning
+- Computer Vision
