@@ -1,5 +1,8 @@
 # SeniorDesign
 Final Year Capstone Project
 
-# Members
+## Team Name
+Royal AI Pioneers
+
+### Members
 Ameya Deshmukh, Om Gaikwad
