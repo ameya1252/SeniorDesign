@@ -5,4 +5,10 @@ Final Year Capstone Project
 Royal AI Pioneers
 
 ### Members
-Ameya Deshmukh, Om Gaikwad
+- **Ameya Deshmukh**
+  - Major: Computer Science
+  - Email: [deshmuau@mail.uc.edu](mailto:deshmuau@mail.uc.edu)
+
+- **Om Gaikwad**
+  - Major: Computer Science
+  - Email: [gaiwkaot@mail.uc.edu](mailto:gaiwkaot@mail.uc.edu)
