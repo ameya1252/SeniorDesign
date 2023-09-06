@@ -17,7 +17,7 @@ real-time online messaging via Docker.
 - *Dates:* August 2022 - December 2022
 - *Description:* Developed and integrated the tether by 3M by adding features to increase operator safety and reduce downtime. Implemented a key flag feature to disable truck’s motion whenever the tether becomes disconnected via Bluetooth or is unlatched. Deployed toast messages and error tones to ensure proper communication and error handling within the system. Investigated, built, tested, and debugged various control modules on future forklifts.
 
-### Technooogy Innovation Intern
+### Technology Innovation Intern
 - *Company:* Carl H. Lindner College of Business 
 - *Dates:* January 2022 - April 2022
 - *Description:*  Worked on an Artificial Intelligence Process for Passenger Flow Prediction at airports. Mapped the unique features, purpose and scope of the technology and assessed its development stage. Identified the market for the same and crafted an outreach strategy to reach the consumers. Researched key pitfalls and strengths of 6-7 major AI building companies like Intel and wrote research papers on them.
