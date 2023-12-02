@@ -54,9 +54,10 @@ Ameya Deshmukh, Om Gaikwad
    https://github.com/ameya1252/SeniorDesign/blob/main/Capstone%20Assessment.docx
 
 ## Professional Biographies
-   ###Om
+   ### Om
    https://github.com/ameya1252/SeniorDesign/blob/main/Professional_Biography_Om.md
-   ###Ameya
+   
+   ### Ameya
    https://github.com/ameya1252/SeniorDesign/blob/main/ProfessionalBiography_Ameya.md
 
 ## Appendix
