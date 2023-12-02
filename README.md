@@ -55,10 +55,10 @@ Ameya Deshmukh, Om Gaikwad
 
 ## Professional Biographies
    ### Om
-   https://github.com/ameya1252/SeniorDesign/blob/main/Professional_Biography_Om.md
+   https://github.com/ameya1252/SeniorDesign/blob/main/Biographies/Professional_Biography_Om.md
    
    ### Ameya
-   https://github.com/ameya1252/SeniorDesign/blob/main/ProfessionalBiography_Ameya.md
+   https://github.com/ameya1252/SeniorDesign/blob/main/Biographies/ProfessionalBiography_Ameya.md
 
 ## Appendix
    https://github.com/google/hypernerf
