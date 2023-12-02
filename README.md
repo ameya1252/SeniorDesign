@@ -33,37 +33,32 @@ Ameya Deshmukh, Om Gaikwad
    https://github.com/ameya1252/SeniorDesign/blob/main/User_Stories.md
 
 ### Design Diagrams
-   - [Level 0](#link-to-level-0-diagram)
-   - [Level 1](#link-to-level-1-diagram)
-   - [Level 2](#link-to-level-2-diagram)
-   #### Description of the Diagrams
-   <!-- Include conventions and a brief description of the purpose of each component. -->
+   - [Level 0]https://github.com/ameya1252/SeniorDesign/tree/main/Dsign
+   - [Level 1]https://github.com/ameya1252/SeniorDesign/tree/main/Dsign
+   - [Level 2]https://github.com/ameya1252/SeniorDesign/tree/main/Dsign
+   - 
 
 ## Project Tasks and Timeline
 ### Task List
-   <!-- Include content from Assignment #5-6. -->
+   https://github.com/ameya1252/SeniorDesign/blob/main/Tasklist.md
 
-### Timeline
-   <!-- Include content from Assignment #5-6. -->
-
-### Effort Matrix
-   <!-- Include content from Assignment #5-6. -->
+### Milestones, Timeline, and Effort Matrix
+   https://github.com/ameya1252/SeniorDesign/blob/main/Milestones%2C%20TImeline%20and%20Effort%20Matrix.docx
 
 ## ABET Concerns Essay
-   <!-- Include content from Assignment #7. -->
+   https://github.com/ameya1252/SeniorDesign/blob/main/Project%20Constraints.docx
 
 ## PPT Slideshow (includes ABET Concerns)
-   <!-- Include content from Assignment #8. -->
+   https://github.com/ameya1252/SeniorDesign/blob/main/Fall%20Design%20Presentation.pptx
 
 ## Self-Assessment Essays
-   <!-- Include content from Assignment #3. -->
+   https://github.com/ameya1252/SeniorDesign/blob/main/Capstone%20Assessment.docx
 
 ## Professional Biographies
-   <!-- Include content from Assignment #1. -->
-
-## Budget
-   <!-- Include information about expenses, monetary value of donated items, and donation sources. -->
+   ###Om
+   https://github.com/ameya1252/SeniorDesign/blob/main/Professional_Biography_Om.md
+   ###Ameya
+   https://github.com/ameya1252/SeniorDesign/blob/main/ProfessionalBiography_Ameya.md
 
 ## Appendix
-   <!-- Include appropriate references, citations, links to code repositories, and meeting notes. -->
-   <!-- Provide evidence justifying 45 hours of effort for each team member. -->
+   https://github.com/google/hypernerf
