@@ -6,8 +6,7 @@ Ameya Deshmukh, Om Gaikwad
 
 ## Table of Contents
 
-1. [Team Names and Project Abstract](#team-names-and-project-abstract)
-2. [Project Description](#project-description)
+1. [Team Names and Project Description](#team-names-and-project-abstract)
 3. [User Stories and Design Diagrams](#user-stories-and-design-diagrams)
    - [User Stories](#user-stories)
    - [Design Diagrams](#design-diagrams)
